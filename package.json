@@ -14,6 +14,7 @@
   },
   "scripts": {
     "build": "tsup src/index.tsx --format cjs,esm --dts",
+    "publish": "pnpm run build && pnpm changeset publish",
     "lint": "tsc",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
