@@ -1,5 +1,11 @@
 # tailwind-ds-test
 
+## 0.2.1
+
+### Patch Changes
+
+- e74d65c: Updated gha publish command
+
 ## 0.2.0
 
 ### Minor Changes
