@@ -1,5 +1,11 @@
 # tailwind-ds-test
 
+## 0.2.0
+
+### Minor Changes
+
+- f4ea7e1: Forced version bump
+
 ## 0.1.2
 
 ### Patch Changes
