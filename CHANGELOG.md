@@ -1,5 +1,11 @@
 # tailwind-ds-test
 
+## 0.1.1
+
+### Patch Changes
+
+- 68e2491: Updated publish command
+
 ## 0.1.0
 
 ### Minor Changes
