@@ -1,5 +1,11 @@
 # tailwind-ds-test
 
+## 0.1.2
+
+### Patch Changes
+
+- f5fb2c0: Updated publish config
+
 ## 0.1.1
 
 ### Patch Changes
