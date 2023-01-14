@@ -1,6 +1,6 @@
 {
   "name": "tailwind-ds-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A test project for building a Tailwind Design System",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
