@@ -1,5 +1,11 @@
 # tailwind-ds-test
 
+## 0.1.0
+
+### Minor Changes
+
+- c13fd68: Added package.json exports
+
 ## 0.0.3
 
 ### Patch Changes
